@@ -1,0 +1,40 @@
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\Sqlite.exe.config
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\Sqlite.exe
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\Sqlite.pdb
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\EntityFramework.dll
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\EntityFramework.xml
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.csprojAssemblyReference.cache
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.Form1.resources
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.Properties.Resources.resources
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.csproj.GenerateResource.cache
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.csproj.CopyComplete
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.exe
+C:\Users\sybase\Documents\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.pdb
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\Sqlite.exe.config
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\Sqlite.exe
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\Sqlite.pdb
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\EntityFramework.dll
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\EntityFramework.xml
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.csprojAssemblyReference.cache
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.Form1.resources
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.Properties.Resources.resources
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.csproj.GenerateResource.cache
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.csproj.CopyComplete
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.exe
+C:\Users\Juan Carranza\Desktop\PROYECTO3_TB2\Proyecto3_TB2\SQLITE_Project\Sqlite\Sqlite\obj\Debug\Sqlite.pdb
